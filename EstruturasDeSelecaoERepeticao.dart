@@ -72,7 +72,14 @@ void main(){
     }
   }
 
-  questao20(10,10,9);
+  questao21(){
+
+    for(var i = 10; i >= 1; i--){
+      print(i);
+    }
+  }
+
+  questao21();
 
 }
 
